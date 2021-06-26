@@ -1,5 +1,7 @@
 # CREATED BY  TEAM BLACKCAPS
-  This project is created as a submission for Hack the Mountains 2.0
+ This project is created as a submission for Hack the Mountains 2.0
+  
+ For Running this App on emulator Please go to this <a href="https://appetize.io/app/f38etqv0gyugrzavxeq49cr7yg?device=nexus5&scale=75&orientation=portrait&osVersion=11.0">link</a>
 
 # Medical consultation App
  
