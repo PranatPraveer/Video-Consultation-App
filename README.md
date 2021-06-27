@@ -11,7 +11,7 @@ different medical problems.
 The patients can choose from different specialists according to their need and medical problems.
 
 
-# Scrrenshots of Application
+# Screenshots of Application
 
 
 
